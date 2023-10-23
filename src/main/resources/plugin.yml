@@ -1,0 +1,4 @@
+name: AFKPlugin
+version: '${project.version}'
+main: com.foxdev.afkplugin.AFKPlugin
+api-version: '1.19'
